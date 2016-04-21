@@ -1,0 +1,14 @@
+/*
+* @Author: xeodou
+* @Date:   2016
+* @Last Modified by:   xeodou
+* @Last Modified time: 2016
+*/
+@media print  {
+  #my-projects {
+    margin-top: 40px;
+  }
+  #download {
+    display: none;
+  }
+}

@@ -1,0 +1,89 @@
+Xeodou Li
+=========
+
+* * * * *
+
+Full-Stack Developer, focus on JavaScript and new technologies, love
+open source, currently work and live in Shanghai, China.
+
+-   Blog: xeodou.me
+-   Date of Birth: 10-10-1991
+-   Github: @xeodou
+-   Twitter: @xeodou
+-   Medium: @xeodou
+
+My skills
+
+-   Back-end development (Node.js, Golang)
+-   MVC frameworks (Loopback, Express, Meteor.JS, Koa, React.JS,
+    Angular.JS, Deku)
+-   Cross platform development (Golang, Electron.JS, NW.JS,
+    React-native, Ionic)
+-   Mobile development (Java, Objective-C)
+-   Tools (Git, Browserify, Makefile, NPM, webpack, Babel.JS)
+-   Others (XMPP, Dockers)
+-   Very limited experience with Python, CSS…
+
+My working experiences
+
+03/2013 - Now Full-Stack Developer at Wiredcraft
+
+-   Front-end and Back-end architecture.
+-   Build the APIs for the front-end.
+-   Implement features with team for the projects.
+-   Solve problems.
+-   Code review.
+
+07/2012 - 02/2013 Mobile developer for a startup
+
+-   Develope an e-shop Android application.
+-   Maintain the distribute process for both iOS and Android apps.
+-   Code review.
+
+02/2012 - 05/2012 iOS developer Intern at Wacai
+
+-   Integrate Weibo oauth2 login feature for their mobile app.
+-   Fix some small bugs for the mobile applications.
+
+My open source contributions
+
+-   Co-organiser of 2016 JSConf China - NingJS
+-   Co-organiser of 2015 JSConf China - ShenJS
+-   Member of Node.js Foundation
+-   Lots contributions for open source project on github.com.
+
+My projects
+
+- Open source
+
+-   Mill Blog - A ligtest and themable blog egine based on github, built
+    with React.JS, webpack, babel.JS.
+-   Yanzhi - Photo sharing socialize mobile web app, built with
+    React.JS, Less and Koa.
+-   React-Crouton - Useful message component for React.JS.
+-   go-sqlcipher - SQLCipher Golang SQLCipher driver for encrypted
+    SQLite database.
+-   gulp-atom - Electron.JS distribute plugin for gulp.
+-   More on github.com
+
+- Projects
+
+-   Back-end architecture for a secure and scalable SSO(single sign-on)
+    gateway with Node.JS for millions of users in China(can’t say the
+    name here).
+-   Architecture for the secure and cross-platform destop application
+    with Golang SQLCipher for Myanmar voter registration system.
+-   csviz Open Source project for data visualization, built with
+    React.JS and Express.
+-   Sweepboard - A Better GitHub Issue Queue. Transform your GitHub
+    issue queue into a realtime kanban for your whole team.
+-   Chato.ps - Bot intergration for all real time messaging
+    applications.
+-   Octochat - Real time messaging web application built with XMPP and
+    Node.JS, like Slack but before Slack.  
+-   Magic Bus An Ionic based hybrid application for passenger and a
+    Objective-C native application for driver.
+
+* * * * *
+
+Download pdf | txt
