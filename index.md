@@ -51,7 +51,7 @@ Full-Stack Developer, focus on JavaScript and new technologies, love open source
 
 ### My open source contributions
 
-* Co-organiser of 2017 JSConf China - [NingJS](http://2017.jsconf.cn/)
+* Co-organiser of 2017 JSConf China - [JSConf China 2017](http://2017.jsconf.cn/)
 * Co-organiser of 2016 JSConf China - [NingJS](http://2016.jsconf.cn/)
 * Co-organiser of 2015 JSConf China - [ShenJS](http://2015.jsconf.cn/)
 * Member of [Node.js Foundation](https://github.com/nodejs)

@@ -57,7 +57,7 @@ My working experiences
 
 My open source contributions
 
--   Co-organiser of 2017 JSConf China - NingJS
+-   Co-organiser of 2017 JSConf China - JSConf China 2017
 -   Co-organiser of 2016 JSConf China - NingJS
 -   Co-organiser of 2015 JSConf China - ShenJS
 -   Member of Node.js Foundation
