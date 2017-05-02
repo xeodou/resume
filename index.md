@@ -18,14 +18,22 @@ Full-Stack Developer, focus on JavaScript and new technologies, love open source
 * **MVC frameworks** (Loopback, Express, Meteor.JS, Koa, React.JS, Angular.JS, Deku)
 * **Cross platform development** (Golang, Electron.JS, NW.JS, React-native, Ionic)
 * **Mobile development** (Java, Objective-C)
-* **Tools** (Git, Browserify, Makefile, NPM, webpack, Babel.JS)
-* **Others** (XMPP, Dockers)
-* Very limited experience with Python, CSS...
+* **Front-end** (SCSS, CSS)
+* **Tools** (Git, Browserify, Makefile, gulp, grunt, NPM, webpack, Babel.JS)
+* **Others** (XMPP, Dockers, GraphQL)
+* Very limited experience with Python ...
 
 
 ### My working experiences
 
-#### **03/2013 - Now** Full-Stack Developer at [Wiredcraft](http://wiredcraft.com)
+#### **06/2016 - present** Full-Stack Developer at [Udacity](https://www.udacity.com)
+  - Commit to large scalable React/Redux application at Udacity.
+  - Build internal tools with Electron and React.JS.
+  - Create a light and easy used CSS framework internally.
+  - Part of China payment system.
+  - Code qualifying cross team.
+
+#### **03/2013 - 06/2016** Full-Stack Developer at [Wiredcraft](http://wiredcraft.com)
   - Front-end and Back-end architecture.
   - Build the APIs for the front-end.
   - Implement features with team for the projects.
@@ -43,6 +51,7 @@ Full-Stack Developer, focus on JavaScript and new technologies, love open source
 
 ### My open source contributions
 
+* Co-organiser of 2017 JSConf China - [NingJS](http://2017.jsconf.cn/)
 * Co-organiser of 2016 JSConf China - [NingJS](http://2016.jsconf.cn/)
 * Co-organiser of 2015 JSConf China - [ShenJS](http://2015.jsconf.cn/)
 * Member of [Node.js Foundation](https://github.com/nodejs)
@@ -57,11 +66,15 @@ Full-Stack Developer, focus on JavaScript and new technologies, love open source
 * [Yanzhi](https://github.com/graffie/yanzhi) - Photo sharing socialize mobile web app, built with React.JS, Less and Koa.
 * [React-Crouton](https://github.com/xeodou/react-crouton) - Useful message component for React.JS.
 * [go-sqlcipher](https://github.com/xeodou/go-sqlcipher) - [SQLCipher](https://www.zetetic.net/sqlcipher) Golang SQLCipher driver for encrypted SQLite database. 
+* [aesf](https://github.com/xeodou/aesf) - RFC2898 key derivation AES encryption with sha1HMAC verification data encrypt/decrypt tool in Golang.
 * [gulp-atom](https://github.com/xeodou/gulp-atom) - Electron.JS distribute plugin for [gulp](http://gulpjs.com/).
 * More on [github.com](https://github.com/xeodou)
 
 #### - Projects
 
+* [Udacity Classroom](https://classroom.udacity.com) - Commit to fix and changes for the largest React/Redux application in the company.
+* [Content Editor]() - The editor for [Udacity Classroom](https://classroom.udacity.com).
+* [Classroom Backend server]() - The backend server for [Udacity Classroom](https://classroom.udacity.com) built with NodeJS.
 * Back-end architecture for a secure and scalable SSO(single sign-on) gateway with Node.JS for millions of users in China(*can't say the name here*).
 * Architecture for the secure and cross-platform destop application with Golang SQLCipher for Myanmar voter registration system.
 * [csviz](http://csviz.org) Open Source project for data visualization, built with React.JS and Express.

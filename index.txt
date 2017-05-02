@@ -20,13 +20,23 @@ My skills
 -   Cross platform development (Golang, Electron.JS, NW.JS,
     React-native, Ionic)
 -   Mobile development (Java, Objective-C)
--   Tools (Git, Browserify, Makefile, NPM, webpack, Babel.JS)
--   Others (XMPP, Dockers)
--   Very limited experience with Python, CSS…
+-   Front-end (SCSS, CSS)
+-   Tools (Git, Browserify, Makefile, gulp, grunt, NPM, webpack,
+    Babel.JS)
+-   Others (XMPP, Dockers, GraphQL)
+-   Very limited experience with Python …
 
 My working experiences
 
-03/2013 - Now Full-Stack Developer at Wiredcraft
+06/2016 - present Full-Stack Developer at Udacity
+
+-   Commit to large scalable React/Redux application at Udacity.
+-   Build internal tools with Electron and React.JS.
+-   Create a light and easy used CSS framework internally.
+-   Part of China payment system.
+-   Code qualifying cross team.
+
+03/2013 - 06/2016 Full-Stack Developer at Wiredcraft
 
 -   Front-end and Back-end architecture.
 -   Build the APIs for the front-end.
@@ -47,6 +57,7 @@ My working experiences
 
 My open source contributions
 
+-   Co-organiser of 2017 JSConf China - NingJS
 -   Co-organiser of 2016 JSConf China - NingJS
 -   Co-organiser of 2015 JSConf China - ShenJS
 -   Member of Node.js Foundation
@@ -63,11 +74,18 @@ My projects
 -   React-Crouton - Useful message component for React.JS.
 -   go-sqlcipher - SQLCipher Golang SQLCipher driver for encrypted
     SQLite database.
+-   aesf - RFC2898 key derivation AES encryption with sha1HMAC
+    verification data encrypt/decrypt tool in Golang.
 -   gulp-atom - Electron.JS distribute plugin for gulp.
 -   More on github.com
 
 - Projects
 
+-   Udacity Classroom - Commit to fix and changes for the largest
+    React/Redux application in the company.
+-   Content Editor - The editor for Udacity Classroom.
+-   Classroom Backend server - The backend server for Udacity Classroom
+    built with NodeJS.
 -   Back-end architecture for a secure and scalable SSO(single sign-on)
     gateway with Node.JS for millions of users in China(can’t say the
     name here).
@@ -86,4 +104,4 @@ My projects
 
 * * * * *
 
-Download pdf | txt
+Download pdf | txt | Markdown
