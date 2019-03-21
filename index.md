@@ -3,7 +3,7 @@ Xeodou Li
 
 ---
 
-Full-Stack Developer, focus on JavaScript and new technologies, love open source, currently work and live in Shanghai, China.
+Software Engineer, focus on solving complex problems and new technologies, love open source, currently work and live in Shanghai, China.
 
 * Blog: [xeodou.me](https://xeodou.me)
 * Date of Birth: 10-10-1991
@@ -14,7 +14,7 @@ Full-Stack Developer, focus on JavaScript and new technologies, love open source
 
 ### My skills
 
-* **Back-end development** (Node.js, Golang)
+* **Back-end development** (Node.js, Golang, Ruby)
 * **MVC frameworks** (Loopback, Express, Meteor.JS, Koa, React.JS, Angular.JS, Deku)
 * **Cross platform development** (Golang, Electron.JS, NW.JS, React-native, Ionic)
 * **Mobile development** (Java, Objective-C)
@@ -26,27 +26,41 @@ Full-Stack Developer, focus on JavaScript and new technologies, love open source
 
 ### My working experiences
 
-#### **06/2016 - present** Full-Stack Developer at [Udacity](https://www.udacity.com)
-  - Commit to large scalable React/Redux application at Udacity.
-  - Build internal tools with Electron and React.JS.
-  - Create a light and easy used CSS framework internally.
-  - Part of China payment system.
-  - Code qualifying cross team.
+#### **07/2017 - present** Senior Software Engineer at [Udacity](https://www.udacity.com)
+  - Manage the China engineer team with 6 engineers, solid the hiring, interview and onboarding process for the international engineers, help the INTL engineer team growth from the 3 to 25.
+  - Collobration with PMs & stakeholders help the China team with 50% growth every year.
+  - Priortize the products for the China engineer team and create the productive sprint process.
+  - One of the initial contributor for the website refactoring by using the AngularJS, and it servers for millions students for 6 regions with 8 languages.
+  - Create the micro services architecture for China region using the AWS ECS, docker and lambda to support the agile software development, with more than 12 services and 30 lambdas running on the cloud today and serveral deployments per day.
+  - Initial the projects helps to solve the specific problems for China regions, for example create a extendable OAuth2.0 service to support Wechat and other non-standard OAuth2.0 providers in China.
+  - Leading the changes for the global webiste homepages from AngularJS server-rendering to vanilla JavaScript, and it improves the 50% website load performance.
+  - Exploring the edge worker technology to improve the user expirences and extend it global wide in the company.
+  - Code reviews cross region teams.
+
+#### **06/2016 - 07/2017** Full-Stack Developer at [Udacity](https://www.udacity.com)
+  - Make contributions to the largest ReactJS applications in the company, rewrite the key services to support the new content model.
+  - Create tool to help the global localization team localize the content in a very effective way using the Electron.JS and React.JS, used by every international regions in company.
+  - Create a light and easy used CSS framework internally to speed up the font-end pages development.
+  - Adding new features for the payment service to support the China team growth, for example adding new price model support.
+  - Code reviews cross region teams.
 
 #### **03/2013 - 06/2016** Full-Stack Developer at [Wiredcraft](http://wiredcraft.com)
-  - Front-end and Back-end architecture.
-  - Build the APIs for the front-end.
-  - Implement features with team for the projects.
-  - Solve problems.
-  - Code review.
+  - Design the architecture for a secure and scalable SSO(single sign-on) gateway with Node.JS to support millions of users in China for one of our key customer.
+  - Design and implement the secure and cross-platform destop application with Golang and SQLCipher for Myanmar voter registration system.
+  - Build the Open Source project for data visualization project [csviz](http://csviz.org) by exploring the React.JS and Express.
+  - Adding the new features to the backend API for internal kanban project [Sweepboard](http://sweepboard.com) with realtime data steam support.
+  - Adding new features to a bot intergration service [Chato.ps](http://chato.ps) on top of [hubot](https://hubot.github.com/).
+  - Write the message parser service between the XMPP message service and clients to a Slack alternative application.
+  - Working with another engineer for an Uber alternative application for a customer by using hybrid technology framework Ionic.JS.
+  - Code reviews.
 
 #### **07/2012 - 02/2013** Mobile developer for a startup
-  - Develope an e-shop Android application.
-  - Maintain the distribute process for both iOS and Android apps.
-  - Code review.
+  - Develope an e-shop Android application to package their Taobao shop into a mobile applications.
+  - Writing the scripts to maintain the distribute process for both iOS and Android apps.
+  - Code reviews.
 
 #### **02/2012 - 05/2012** iOS developer Intern at [Wacai](http://www.wacai.com)
-  - Integrate [Weibo](https://weibo.com) oauth2 login feature for their mobile app.
+  - Integrate [Weibo](https://weibo.com) oauth2 login feature for their main mobile app.
   - Fix some small bugs for the mobile applications.
 
 ### My open source contributions
@@ -54,34 +68,19 @@ Full-Stack Developer, focus on JavaScript and new technologies, love open source
 * Co-organiser of 2017 JSConf China - [JSConf China 2017](http://2017.jsconf.cn/)
 * Co-organiser of 2016 JSConf China - [NingJS](http://2016.jsconf.cn/)
 * Co-organiser of 2015 JSConf China - [ShenJS](http://2015.jsconf.cn/)
-* Member of [Node.js Foundation](https://github.com/nodejs)
-* Lots contributions for open source project on [github.com](https://github.com/xeodou). 
+* Used to be a member of [Node.js Foundation](https://github.com/nodejs)
+* Lots contributions for open source project on [github.com](https://github.com/xeodou).
 
 
-### My projects
-
-#### - Open source
+### Some open source projects
 
 * [Mill Blog](https://github.com/graffie/mill) - A ligtest and themable blog egine based on github, built with React.JS, webpack, babel.JS.
 * [Yanzhi](https://github.com/graffie/yanzhi) - Photo sharing socialize mobile web app, built with React.JS, Less and Koa.
 * [React-Crouton](https://github.com/xeodou/react-crouton) - Useful message component for React.JS.
-* [go-sqlcipher](https://github.com/xeodou/go-sqlcipher) - [SQLCipher](https://www.zetetic.net/sqlcipher) Golang SQLCipher driver for encrypted SQLite database. 
+* [go-sqlcipher](https://github.com/xeodou/go-sqlcipher) - [SQLCipher](https://www.zetetic.net/sqlcipher) Golang SQLCipher driver for encrypted SQLite database.
 * [aesf](https://github.com/xeodou/aesf) - RFC2898 key derivation AES encryption with sha1HMAC verification data encrypt/decrypt tool in Golang.
 * [gulp-atom](https://github.com/xeodou/gulp-atom) - Electron.JS distribute plugin for [gulp](http://gulpjs.com/).
 * More on [github.com](https://github.com/xeodou)
-
-#### - Projects
-
-* [Udacity Classroom](https://classroom.udacity.com) - Commit to fix and changes for the largest React/Redux application in the company.
-* [Content Editor]() - The editor for [Udacity Classroom](https://classroom.udacity.com).
-* [Classroom Backend server]() - The backend server for [Udacity Classroom](https://classroom.udacity.com) built with NodeJS.
-* Back-end architecture for a secure and scalable SSO(single sign-on) gateway with Node.JS for millions of users in China(*can't say the name here*).
-* Architecture for the secure and cross-platform destop application with Golang SQLCipher for Myanmar voter registration system.
-* [csviz](http://csviz.org) Open Source project for data visualization, built with React.JS and Express.
-* [Sweepboard](http://sweepboard.com) - A Better GitHub Issue Queue. Transform your GitHub issue queue into a realtime kanban for your whole team.
-* [Chato.ps](http://chato.ps) - Bot intergration for all real time messaging applications.
-* [Octochat]() - Real time messaging web application built with XMPP and Node.JS, like Slack but before Slack.  
-* [Magic Bus](https://www.magicbus.io) An Ionic based hybrid application for passenger and a Objective-C native application for driver.
 
 ---
 Download [pdf](index.pdf) | [txt](index.txt) | [Markdown](index.md)
