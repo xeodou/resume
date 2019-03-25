@@ -26,9 +26,9 @@ Software Engineer, focus on solving complex problems and new technologies, love 
 
 ### My working experiences
 
-#### **07/2017 - present** Senior Software Engineer at [Udacity](https://www.udacity.com)
+#### **07/2017 - present** Software Engineer at [Udacity](https://www.udacity.com)
   - Manage the China engineer team with 6 engineers, solid the hiring, interview and onboarding process for the international engineers, help the INTL engineer team growth from the 3 to 25.
-  - Collobration with PMs & stakeholders help the China team with 50% growth every year.
+  - Collobrate with PMs & stakeholders help the China team with 50% growth every year.
   - Priortize the products for the China engineer team and create the productive sprint process.
   - One of the initial contributor for the website refactoring by using the AngularJS, and it servers for millions students for 6 regions with 8 languages.
   - Create the micro services architecture for China region using the AWS ECS, docker and lambda to support the agile software development, with more than 12 services and 30 lambdas running on the cloud today and serveral deployments per day.

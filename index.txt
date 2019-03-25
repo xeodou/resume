@@ -29,12 +29,12 @@ My skills
 
 My working experiences
 
-07/2017 - present Senior Software Engineer at Udacity
+07/2017 - present Software Engineer at Udacity
 
 -   Manage the China engineer team with 6 engineers, solid the hiring,
     interview and onboarding process for the international engineers,
     help the INTL engineer team growth from the 3 to 25.
--   Collobration with PMs & stakeholders help the China team with 50%
+-   Collobrate with PMs & stakeholders help the China team with 50%
     growth every year.
 -   Priortize the products for the China engineer team and create the
     productive sprint process.
