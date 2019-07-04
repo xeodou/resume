@@ -5,12 +5,15 @@ Xeodou Li
 
 Software Engineer, focus on solving complex problems and new technologies, love open source, currently work and live in Shanghai, China.
 
-* Blog: [xeodou.me](https://xeodou.me)
 * Date of Birth: 10-10-1991
+* Blog: [xeodou.me](https://xeodou.me)
 * Github: [@xeodou](https://github.com/xeodou)
 * Twitter: [@xeodou](https://twitter.com/xeodou)
 * Medium: [@xeodou](https://medium.com/@xeodou)
 
+### Education
+
+* **2008 - 2012** Bachelor of Management Information Management and Information System at Anhui Polytechnic University.
 
 ### My skills
 
