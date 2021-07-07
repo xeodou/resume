@@ -29,7 +29,12 @@ Software Engineer, focus on solving complex problems and new technologies, love 
 
 ### My working experiences
 
-#### **01/2017 - Present** Senior Software Engineer at [Udacity](https://www.udacity.com)
+#### **08/2020 - Present** Regional Technical Lead at [Estée Lauder](https://www.esteelauder.com/)
+  - Manage the China engineer team, including both full-time engineers and the outsource engineer team.
+  - Leading the legacy platform migration from the monolithic applicaton to the Java/Node.JS based microservices architecture, to support the China market including the website and the WeChat Mini Program.
+  - Communication with the global engineer leadship team, and architecture the sepecific solution for the China market.
+
+#### **01/2017 - 08/2020** Senior Software Engineer at [Udacity](https://www.udacity.com)
   - Manage the Udacity China engineer team
   - Managing the tech stack and mentoring the junior engineers in the Growth team.
   - Introducing the new JAMStack technology to the team and leading the project that migrate the marketing website from the Angluar stack to the JAMStack, it delivered 2x improvements of the page loading time and reduce the 99% of the downloading JavaScript from 1.2M to 200KB after gziped.
