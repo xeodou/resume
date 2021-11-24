@@ -17,22 +17,23 @@ Software Engineer, focus on solving complex problems and new technologies, love 
 
 ### My skills
 
-* **Back-end development** (Node.js, Golang, Ruby)
+* **Back-end development** (Node.js, Golang, Ruby, Java)
 * **MVC frameworks** (Loopback, Express, Meteor.JS, Koa, React.JS, Angular.JS, Deku)
 * **Cross platform development** (Golang, Electron.JS, NW.JS, React-native, Ionic)
 * **Mobile development** (Java, Objective-C)
 * **Front-end** (SCSS, CSS)
 * **Tools** (Git, Browserify, Makefile, gulp, grunt, NPM, Webpack, Babel.JS)
 * **Others** (XMPP, Dockers, GraphQL)
-* Very limited experience with Python ...
-
 
 ### My working experiences
 
 #### **08/2020 - Present** Regional Technical Lead at [Estée Lauder](https://www.esteelauder.com/)
-  - Manage the China engineer team, including both full-time engineers and the outsource engineer team.
-  - Leading the legacy platform migration from the monolithic applicaton to the Java/Node.JS based microservices architecture, to support the China market including the website and the WeChat Mini Program.
+  - Manage the China engineer team, including both full-time engineers and the vendor engineer team.
   - Communication with the global engineer leadship team, and architecture the sepecific solution for the China market.
+  - Design the working model between the regional team and the global engineer team.
+  - Leading the legacy platform migration from the monolithic applicaton to the Java/Node.JS based microservices architecture, to support the China market including the website and the WeChat Mini Program.
+  - Leading the M.A.C WeChat Mini Program migration from the old platform to the new platform in July 2021.
+  - Build the technical strategy to support the multiple brands migration.
 
 #### **01/2017 - 08/2020** Senior Software Engineer at [Udacity](https://www.udacity.com)
   - Manage the Udacity China engineer team
