@@ -35,13 +35,13 @@ Software Engineer, focus on solving complex problems and new technologies, love 
   - Leading the M.A.C WeChat Mini Program migration from the old platform to the new platform in July 2021.
   - Build the technical strategy to support the multiple brands migration.
 
-#### **01/2017 - 08/2020** Senior Software Engineer at [Udacity](https://www.udacity.com)
+#### **01/2019 - 08/2020** Senior Software Engineer at [Udacity](https://www.udacity.com)
   - Manage the Udacity China engineer team
   - Managing the tech stack and mentoring the junior engineers in the Growth team.
   - Introducing the new JAMStack technology to the team and leading the project that migrate the marketing website from the Angluar stack to the JAMStack, it delivered 2x improvements of the page loading time and reduce the 99% of the downloading JavaScript from 1.2M to 200KB after gziped.
   - Setup the A/B testing architecture based on the Cloudflare Worker, Next.JS and Contentful, the page experiments can be launched with non-dev involved.
 
-#### **07/2017 - 01/2020** Software Engineer at [Udacity](https://www.udacity.com)
+#### **07/2017 - 01/2019** Software Engineer at [Udacity](https://www.udacity.com)
   - Manage the China engineer team with 6 engineers, solid the hiring, interview and onboarding process for the international engineers, help the INTL engineer team growth from the 3 to 25.
   - Collaborate with PMs & stakeholders help the China team with 50% growth every year.
   - Prioritize the products for the China engineer team and create a productive sprint process.
